@@ -1,5 +1,7 @@
 ## Hi there 👋
-This is my first Git Repository Author-Aparna Kanhere
+This is my first Git Repository
+<br>
+Author-Aparna Kanhere
 <!--
 **aparnakanhere/aparnakanhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
